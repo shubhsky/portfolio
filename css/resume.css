@@ -4,7 +4,7 @@ body {
 #home {
   height: 75vh;
   opacity: 0.8;
-  background-image: url(static/header-background-image.jpg);
+  background-image: url(../static/header-background-image.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
